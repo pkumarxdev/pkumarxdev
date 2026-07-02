@@ -1,16 +1,13 @@
-## Hi there 👋
+# Prashant Kumar
 
-<!--
-**pkumarxdev/pkumarxdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Student in Information Technology at Indian Institute of Information Technology, Allahabad. Focused on backend engineering, system scalability, and algorithmic problem-solving.
 
-Here are some ideas to get you started:
+### Technical Expertise
+* **Languages:** Java, C, C++, JavaScript, SQL
+* **Frameworks & Libraries:** React.js, Node.js, Express.js, Spring Boot, Mongoose, Tailwind CSS
+* **Databases & Infrastructure:** MongoDB, PostgreSQL, Redis, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Links & Profiles
+* **GitHub:** github.com/pkumarxdev
+* **LinkedIn:** linkedin.com/in/pkumarxdev
+* **Email:** pkumarx31@gmail.com
