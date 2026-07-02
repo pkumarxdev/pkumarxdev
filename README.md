@@ -5,7 +5,7 @@ B.Tech Student in Information Technology at Indian Institute of Information Tech
 ### Technical Expertise
 * **Languages:** Java, C, C++, JavaScript, SQL
 * **Frameworks & Libraries:** React.js, Node.js, Express.js, Spring Boot, Mongoose, Tailwind CSS
-* **Databases & Infrastructure:** MongoDB, PostgreSQL, Redis, Docker
+* **Databases & Infrastructure:** MongoDB , Redis, Docker
 
 ### Links & Profiles
 * **GitHub:** github.com/pkumarxdev
